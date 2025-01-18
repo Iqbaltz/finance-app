@@ -6,7 +6,7 @@
 
 ## Demo Pengeluaran :
 
-![pengeluaran](https://user-images.githubusercontent.com/45083824/69827194-e52b8000-1248-11ea-94d6-a5a1408229e8.png)
+![pengeluaran](./screenshot/pengeluaran.png)
 
 ## Export excel :
 
